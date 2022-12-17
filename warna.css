@@ -1,0 +1,45 @@
+/* Warna */
+h1,h2,h3,h4,h5,h6{
+  color: white;
+}
+
+body{
+  background-color:black;
+  color:white;
+}
+
+i{
+  color: white;
+}
+
+a{
+  color:white;
+}
+
+p{
+  color: white;
+}
+/*kelas*/
+.white{
+  color: white;
+}
+.left{
+  float: left;
+  margin-left: 249px;
+  margin-right: 0px;
+
+}
+.img{
+  float: left;
+}
+.socialmedia{
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.marg{
+  margin-bottom: 2px;
+}
+.lefts{
+  float: left;
+  margin-left: 230px;
+}
